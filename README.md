@@ -1,11 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The is a test Rails project just to see how it works. Thanks @brascoder
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version = 2.4.1
 
 * System dependencies
 
